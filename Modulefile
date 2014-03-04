@@ -1,0 +1,11 @@
+name 'opendai-odaiapiman'
+version '1.0.0'
+
+author 'Luca Gioppo'
+license ''
+project_page ''
+source ''
+summary ''
+description ''
+dependency 'gioppoluca/wso2api', '>=0.0.1'
+dependency 'puppetlabs/mysql', '>=0.5.0'
